@@ -1,17 +1,9 @@
-Hello World!
+### Hello World!
 
-🔭 I'm a student at 42 Berlin and a Data Science undergraduate, seeking an internship opportunity in data analysis, business intelligence, or roles related to low/no-code automation (e.g., n8n, Zapier, Airtable, Make.ai). My long-term focus is on leveraging data for process optimization and intelligent system design.
-
-🏗️ Currently working through the 42 Berlin Core Curriculum, building on my C programming and shell scripting skills. I'm also focusing on data visualization and workflow automation projects.
-
-🤔 Currently looking for opportunities to apply my skills in real-world scenarios and contribute to innovative projects.
-
-🌱 Building on my experience with data analysis (Python), databases, and digital transformation.
-
-👯 Open to collaboration on data analysis, business intelligence, and automation projects.
-
-📫 How to reach me: best on LinkedIn, linked on my profile.
-
-💬 Ask me about data analysis, process optimization, workflow automation, and the 42 peer-learning methodology.
-
-⚡ Fun facts: I've successfully completed the piscine at 42 Berlin. I've also gained experience in improving the efficiency of IT processes through projects in data visualization and workflow automation.
+- **Current Focus:** I am pursuing my M.Sc. in Information Systems (Managing Digital Business) at the University of Münster and hold a B.Sc. in Data Science, AI, and Digital Business. I am looking for working student or internship roles in data engineering, business process automation, or tech-focused Founders Associate positions.
+- **Work Experience:** Working Student in Data Integration at LBS Landesbausparkasse NordOst AG. I migrate legacy SAS ETL processes to Pentaho Data Integration (PDI) and write production Oracle SQL for the internal data warehouse.
+- **What I Build:** I design data pipelines, database migration utilities, and automated workflows using Python, SQL, Make.com, Zapier, and n8n. Recently, I built SPMT, a rule-based Python transpiler that converts SAS PROC SQL into Oracle SQL and Pentaho KTR files.
+- **Background:** Trained in C, Unix, and Git within the peer-to-peer software engineering environment at 42 Berlin before transitioning to my current data role. Previously automated CRM and sales workflows that cut manual effort by 37% and increased lead conversion by 24%.
+- **Collaboration:** Open to collaborating on data engineering, process automation, and AI/LLM benchmarking projects.
+- **Ask Me About:** ETL migrations, SQL optimization, workflow automation (Make, Zapier, n8n), and the 42 peer-learning methodology.
+- **How to Reach Me:** Connect with me on LinkedIn (linked on my profile) or via email at rakshit.verma1410@gmail.com.
